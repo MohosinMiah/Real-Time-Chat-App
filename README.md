@@ -8,3 +8,4 @@ https://www.youtube.com/watch?v=TywlS9iAZCM
 
 https://www.toptal.com/java/stomp-spring-boot-websocket
 
+https://www.section.io/engineering-education/getting-started-with-spring-websockets/
